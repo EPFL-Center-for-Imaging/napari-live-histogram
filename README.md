@@ -1,4 +1,4 @@
-# napari-histogram
+# napari-live-histogram
 
 Display the image histogram in Napari. The histogram is updated live if the selected layer data changes, for example if image data is being streamed from a camera.
 
