@@ -3,14 +3,14 @@
 Display the image histogram in Napari.
 
 <!-- <p align="center">
-    <img src="https://github.com/MalloryWittwer/napari-histogram/blob/main/assets/histogram.gif" height="400">
+    <img src="https://github.com/MalloryWittwer/napari-live-histogram/blob/main/assets/histogram.gif" height="400">
 </p> -->
 
 ## Installation
 
-You can install `napari-histogram` via [pip]:
+You can install `napari-live-histogram` via [pip]:
 
-    pip install napari-histogram
+    pip install napari-live-histogram
 
 ## Usage
 
@@ -23,7 +23,7 @@ Contributions are very welcome. Please get in touch if you'd like to be involved
 ## License
 
 Distributed under the terms of the [BSD-3] license,
-"napari-histogram" is free and open source software
+"napari-live-histogram" is free and open source software
 
 ## Issues
 
