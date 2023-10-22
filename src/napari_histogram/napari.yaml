@@ -1,0 +1,10 @@
+name: napari-histogram
+display_name: Histogram
+contributions:
+  commands:
+    - id: napari-histogram.histogram
+      title: Histogram
+      python_name: napari_histogram:HistogramWidget
+  widgets:
+    - command: napari-histogram.histogram
+      display_name: Histogram
