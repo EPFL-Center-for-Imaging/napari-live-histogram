@@ -3,7 +3,7 @@
 Display the image histogram in Napari. The histogram is updated live if the selected layer data changes, for example if image data is being streamed from a camera.
 
 <p align="center">
-    <img src="https://github.com/MalloryWittwer/napari-live-histogram/blob/main/assets/screenshot.png" height="400">
+    <img src="https://github.com/EPFL-Center-for-Imaging/napari-live-histogram/blob/main/assets/screenshot.png" height="400">
 </p>
 
 ## Installation
